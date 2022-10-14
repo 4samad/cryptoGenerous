@@ -5,7 +5,8 @@ A Dapp where you can donate to a vetted charity/philanthropy project and get an 
 - Projects vetted by DAO of field experts.
 - Projects are NFTs and donation is done on chain.
 - Use cryptocoins for donating and get a "Generous NFT". 
-- Burn or Sell owned Generous NFTs on the app. 💰
+- Sell owned Generous NFTs on the app when you need money yourself. 💰
+- Or Burn tokens to gain Governance tokens for the DAO.
 - DAO and Governance Tokens.
 - ✨ Specials for  Top Donors.
 
@@ -30,6 +31,8 @@ A Dapp where you can donate to a vetted charity/philanthropy project and get an 
 
 - **IPFS & Filecoin** - For storage and metadata (NFT.storage)
 
-- **DAO & Governance Token** - 
+- **DAO & Governance Token** - (ERC20 based) (solidity)
+
+- **Landing Page** - Bootstrap website
 
 --
