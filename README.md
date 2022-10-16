@@ -1,6 +1,10 @@
 ![CRYPTO GENEROUS](crypto-generous-banner.png)
 
-A Dapp where you can donate to a vetted charity/philanthropy project and get an NFT for it that is valued to the donation amount. You can then, in future, sell the NFT whenever you have financial troubles for the same amount or lower.
+## Introducing Transferrable Charities ✨
+
+A Dapp where you can donate to a vetted charity/philanthropy project and get an NFT for it that is valued to the donation amount. You can then, in future, transfer/sell the NFT whenever you have financial troubles for the same amount or lower.
+
+## Features
 
 - Projects vetted by DAO of field experts.
 - Projects are NFTs and donation is done on chain.
